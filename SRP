@@ -1,0 +1,25 @@
+public class Employee {
+    private int Id;
+    private string FirstName ;
+    private string LastName;
+    private decimal Salary ;
+
+//setter and getter functions
+}
+
+
+public class EmployeeDB {
+    public void saveEmployee (Employee emp)
+    {
+         //store database
+    }
+}
+
+public class CalculateSalary
+{
+    public decimal CalculateSalary(Employee emp)
+    {
+       s // Calculate the employee's salary
+    }
+}
+
