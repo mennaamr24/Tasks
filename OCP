@@ -1,0 +1,18 @@
+public abstract class shape{
+abstract double calculateArea();
+}
+
+public class Rectangle extends shape {
+@override
+public double calculateArea()
+{
+  \\calculation of rectangle area
+}
+
+
+public class Circle extends shape {
+@override
+public double calculateArea()
+{
+ \\calculation of circle area
+}
